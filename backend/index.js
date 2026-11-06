@@ -1,3 +1,5 @@
+index
+
 //JS
 //common JS -> antigua, mas compatible
 // ES MODULE ->Lads mas reeciente "Import from"
